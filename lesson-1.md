@@ -1,3 +1,5 @@
+Turn these into exercises
+
 ## Start vim
 
     vim
