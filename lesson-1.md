@@ -2,60 +2,102 @@ Turn these into exercises
 
 ## Start vim
 
-    vim
+```
+vim
+```
 
 ## Exit vim with save
 
-    ZZ
+```
+ZZ
+```
 
 ## Exit vim without save
 
-    ZQ
+```
+ZQ
+```
 
 ## Enter "insert mode" to add text
 
-    i
+```
+i
+```
 
-## Exit "insert mode"
+## Exit "insert mode" (back to "normal" mode)
 
-    Esc
+```
+Esc
+```
 
-    - or -
+- or -
 
-    Ctrl-[
+```
+Ctrl-[
+```
 
 ## Start vim on an existing file
 
-    vim [filename]
+```
+vim lesson-1.md
+```
 
 ## Move the cursor down
 
-    j
+```
+j
+```
 
 ## Move the cursor up
 
-    k
+```
+k
+```
 
 ## Move the cursor right
 
-    l
+```
+l
+```
 
 ## Move the cursor left
 
-    h
+```
+h
+```
 
 ## Move to the bottom of the file
 
-    G
+```
+G
+```
 
 ## Move to the top of the file
 
-    gg
+```
+gg
+```
 
 ## Page down
 
-    Ctrl-d
+```
+Ctrl-d
+```
 
 ## Page up
 
-    Ctrl-u
+```
+Ctrl-u
+```
+
+## Go to the cursor's last position (cursor history, can be repeated)
+
+```
+Ctrl-o
+```
+
+## Go forward cursor history
+
+```
+Ctrl-i
+```
