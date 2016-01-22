@@ -25,7 +25,9 @@ sudo apt-get install -y vim-nox
 
 ## MacOS
 
-brew install??
+```
+brew install vim
+```
 
 ## Red Hat
 
